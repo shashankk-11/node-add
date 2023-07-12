@@ -9,3 +9,4 @@ var name = "samiksha"
 const result = addNumbers(number1, number2);
 console.log("The sum is:", result);
 console.log($name)
+echo(shashank)
